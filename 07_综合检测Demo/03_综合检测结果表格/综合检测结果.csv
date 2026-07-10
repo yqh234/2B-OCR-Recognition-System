@@ -1,0 +1,4 @@
+image,barcode_count,barcode_types,barcode_data,ocr_text,ocr_confidence,name,id_number,phone,address,invoice_number,amount
+01_qr_id_card_like.png,1,QR-Code,QR_NORMAL_2A_TEST,综合检测样张: 读码 + OCR 姓名: 杨概上赂 身份证号: 32040420030101999X 电话: 13626256429 地址: 江苏常州,83,杨概上赂,32040420030101999X,13626256429,江苏常州,320404200301,
+02_code128_invoice_like.png,1,CODE-128,EXTCODE128011,综合检测样张: 读码 + OCR 村号码: 12345678 购买方: 视党算法实验室 | | Sen: 256.80 元 EXTCODE128011 项目: OCRERGIM,85,,,,,12345678,256.80
+03_mixed_qr_ocr.png,1,QR-Code,EXT_MIX_QR_014,综合检测样张: 读码 + OCR 任务: 2A读码 + 2B OCR ser ||[M] Prone 13800138000 ae Amount: 88.60,78,,,13800138000,,13800138000,88.60

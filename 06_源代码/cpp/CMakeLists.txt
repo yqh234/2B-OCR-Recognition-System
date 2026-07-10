@@ -10,6 +10,7 @@ find_package(PkgConfig REQUIRED)
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
 pkg_check_modules(TESSERACT REQUIRED tesseract lept)
+pkg_check_modules(ZBAR REQUIRED zbar)
 
 add_library(ocr_core
     src/ocr_core.cpp
@@ -40,3 +41,14 @@ add_executable(ocr_core_test
     tests/test_core.cpp
 )
 target_link_libraries(ocr_core_test PRIVATE ocr_core)
+
+add_executable(comprehensive_demo
+    src/comprehensive_demo.cpp
+)
+target_include_directories(comprehensive_demo PRIVATE
+    ${ZBAR_INCLUDE_DIRS}
+)
+target_link_libraries(comprehensive_demo PRIVATE
+    ocr_core
+    ${ZBAR_LIBRARIES}
+)
