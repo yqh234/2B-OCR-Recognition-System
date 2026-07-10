@@ -1,0 +1,27 @@
+﻿image,text,confidence
+01_chinese_simple.png,01 Chinese text 机器人视部学习 文字识别系统,80
+02_english_simple.png,02 English text OpenCV Tesseract OCR Image Text Recognition,89
+03_mixed_cn_en.png,03 Mixed Chinese and English 2B OCR 文字识别 Python C++ Qt,92
+04_numbers_id_like.png,04 Numbers and fields 姓名 张三 编号 20260711001 成绩 95,93
+05_low_contrast.png,05 Low contrast 低对比度文字 Contrast Test 2026,94
+06_rotated_text.png,Q6 Rotated text 经微旋转文本 Rotate 5 degrees,89
+07_larger_paragraph.png,07 Larger paragraph OCR 可以从图请中提取文字 适合票据 表单 标牌 截图 本例用于课程作业测试,87
+08_receipt_style.png,08 Receipt style fan A 12.50 商品B 35.00 合计 47.50,82
+09_table_style.png,09 Table style 项目 We 人金额 苹果 3 18.00 牛奶“2 24.00,76
+10_small_font.png,10 Small font 小字号测试 Small Font Test 编号 OCR20260711002 请检查识别效果,91
+11_form_style.png,11 Form style 姓名: Zp 电话: 13800138000 地址: 北京市海淀区,86
+12_english_paragraph.png,12 English paragraph Computer vision converts images into data. OCR extracts readable text from pictures. This sample is used for testing.,95
+13_screen_like.png,13 Screen-like text 系统状态: 运行正常 任务名称: OCR文字识别 当前时间: 2026-07-11,92
+14_noisy_background.png,14 Noisy background 果声背景测试 Noise Background 2026,82
+15_invoice_like.png,15 Invoice-like text 发票号码 12345678 购买方 机器人视帝学习 全额 128.00 元,88
+16_mixed_symbols.png,16 Mixed symbols 型号: A-2026-B 温度: 25.6C,91
+17_clean_chinese_notice.png,17 Clean Chinese Notice 实验室开放时间: 周一至周五 机器人视竞课程测试 请保持图像清晰,88
+18_clean_mixed_address.png,18 MIxed Address 收件人: 李明 地址: 上海市浦东新区 Phone: 13800138000,91
+19_low_light_invoice.png,19 Low Light Invoice 发票号码: 20260711008 MWA: 视觉算法实验室 金额: 256.80 元,88
+20_table_chinese_scores.png,20 Table with Chinese flelds 李四,90
+21_rotated_form.png,21 Rotated Form RAZR: OCR文字识别| 负责人: 王老师 TS: 测试完成,86
+22_blurred_screen.png,22 Slight Blur Screen 系统提示: 识别任务已完成 输出文件: result.csv 平均置信和度: 90,92
+23_dense_english.png,23 Dense English Computer vision reads image content. Tesseract provides OCR results. Qt is used for the interface.,95
+24_small_chinese_font.png,24 Small Chinese Font 小字号文本识别测试 编号: OCR-2026-07-11 要求: 输出文字和置信度,91
+25_symbols_and_numbers.png,25 Symbols and Numbers WS: CV-2B-OCR 温度: 25.6C 状态: OK / PASS,88
+26_long_chinese_paragraph.png,26 Long Chinese Paragraph 本系统用于从图片中提取文字信息 测试内容包括中文 英文 数字 表格 复杂场景下可能出现少量误识别,93

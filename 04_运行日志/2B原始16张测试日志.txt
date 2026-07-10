@@ -1,0 +1,82 @@
+图片："test_samples\\01_chinese_simple.png"
+识别文本：01 Chinese text 机器人视部学习 文字识别系统
+平均置信度：80
+预处理图："ocr_output_full_test\\01_chinese_simple_preprocessed.jpg"
+
+图片："test_samples\\02_english_simple.png"
+识别文本：02 English text OpenCV Tesseract OCR Image Text Recognition
+平均置信度：89
+预处理图："ocr_output_full_test\\02_english_simple_preprocessed.jpg"
+
+图片："test_samples\\03_mixed_cn_en.png"
+识别文本：03 Mixed Chinese and English 2B OCR 文字识别 Python C++ Qt
+平均置信度：92
+预处理图："ocr_output_full_test\\03_mixed_cn_en_preprocessed.jpg"
+
+图片："test_samples\\04_numbers_id_like.png"
+识别文本：04 Numbers and fields 姓名 张三 编号 20260711001 成绩 95
+平均置信度：93
+预处理图："ocr_output_full_test\\04_numbers_id_like_preprocessed.jpg"
+
+图片："test_samples\\05_low_contrast.png"
+识别文本：05 Low contrast 低对比度文字 Contrast Test 2026
+平均置信度：94
+预处理图："ocr_output_full_test\\05_low_contrast_preprocessed.jpg"
+
+图片："test_samples\\06_rotated_text.png"
+识别文本：Q6 Rotated text 经微旋转文本 Rotate 5 degrees
+平均置信度：89
+预处理图："ocr_output_full_test\\06_rotated_text_preprocessed.jpg"
+
+图片："test_samples\\07_larger_paragraph.png"
+识别文本：07 Larger paragraph OCR 可以从图请中提取文字 适合票据 表单 标牌 截图 本例用于课程作业测试
+平均置信度：87
+预处理图："ocr_output_full_test\\07_larger_paragraph_preprocessed.jpg"
+
+图片："test_samples\\08_receipt_style.png"
+识别文本：08 Receipt style fan A 12.50 商品B 35.00 合计 47.50
+平均置信度：82
+预处理图："ocr_output_full_test\\08_receipt_style_preprocessed.jpg"
+
+图片："test_samples\\09_table_style.png"
+识别文本：09 Table style 项目 We 人金额 苹果 3 18.00 牛奶“2 24.00
+平均置信度：76
+预处理图："ocr_output_full_test\\09_table_style_preprocessed.jpg"
+
+图片："test_samples\\10_small_font.png"
+识别文本：10 Small font 小字号测试 Small Font Test 编号 OCR20260711002 请检查识别效果
+平均置信度：91
+预处理图："ocr_output_full_test\\10_small_font_preprocessed.jpg"
+
+图片："test_samples\\11_form_style.png"
+识别文本：11 Form style 姓名: Zp 电话: 13800138000 地址: 北京市海淀区
+平均置信度：86
+预处理图："ocr_output_full_test\\11_form_style_preprocessed.jpg"
+
+图片："test_samples\\12_english_paragraph.png"
+识别文本：12 English paragraph Computer vision converts images into data. OCR extracts readable text from pictures. This sample is used for testing.
+平均置信度：95
+预处理图："ocr_output_full_test\\12_english_paragraph_preprocessed.jpg"
+
+图片："test_samples\\13_screen_like.png"
+识别文本：13 Screen-like text 系统状态: 运行正常 任务名称: OCR文字识别 当前时间: 2026-07-11
+平均置信度：92
+预处理图："ocr_output_full_test\\13_screen_like_preprocessed.jpg"
+
+图片："test_samples\\14_noisy_background.png"
+识别文本：14 Noisy background 果声背景测试 Noise Background 2026
+平均置信度：82
+预处理图："ocr_output_full_test\\14_noisy_background_preprocessed.jpg"
+
+图片："test_samples\\15_invoice_like.png"
+识别文本：15 Invoice-like text 发票号码 12345678 购买方 机器人视帝学习 全额 128.00 元
+平均置信度：88
+预处理图："ocr_output_full_test\\15_invoice_like_preprocessed.jpg"
+
+图片："test_samples\\16_mixed_symbols.png"
+识别文本：16 Mixed symbols 型号: A-2026-B 温度: 25.6C
+平均置信度：91
+预处理图："ocr_output_full_test\\16_mixed_symbols_preprocessed.jpg"
+
+总图片数量：16
+CSV 结果："ocr_results_full_test.csv"

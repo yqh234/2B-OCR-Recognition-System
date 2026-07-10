@@ -1,0 +1,11 @@
+image,text,confidence
+17_clean_chinese_notice.png,17 Clean Chinese Notice 实验室开放时间: 周一至周五 机器人视竞课程测试 请保持图像清晰,88
+18_clean_mixed_address.png,18 MIxed Address 收件人: 李明 地址: 上海市浦东新区 Phone: 13800138000,91
+19_low_light_invoice.png,19 Low Light Invoice 发票号码: 20260711008 MWA: 视觉算法实验室 金额: 256.80 元,88
+20_table_chinese_scores.png,20 Table with Chinese flelds 李四,90
+21_rotated_form.png,21 Rotated Form RAZR: OCR文字识别| 负责人: 王老师 TS: 测试完成,86
+22_blurred_screen.png,22 Slight Blur Screen 系统提示: 识别任务已完成 输出文件: result.csv 平均置信和度: 90,92
+23_dense_english.png,23 Dense English Computer vision reads image content. Tesseract provides OCR results. Qt is used for the interface.,95
+24_small_chinese_font.png,24 Small Chinese Font 小字号文本识别测试 编号: OCR-2026-07-11 要求: 输出文字和置信度,91
+25_symbols_and_numbers.png,25 Symbols and Numbers WS: CV-2B-OCR 温度: 25.6C 状态: OK / PASS,88
+26_long_chinese_paragraph.png,26 Long Chinese Paragraph 本系统用于从图片中提取文字信息 测试内容包括中文 英文 数字 表格 复杂场景下可能出现少量误识别,93
