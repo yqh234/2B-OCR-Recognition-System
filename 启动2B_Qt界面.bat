@@ -1,6 +1,2 @@
 @echo off
-setlocal
-set "PATH=C:\msys64\mingw64\bin;%PATH%"
-set "TESSDATA_PREFIX=C:\msys64\mingw64\share\tessdata"
-cd /d "%~dp0"
-start "" "%~dp006_源代码\cpp\build\ocr_qt.exe"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Launch2B.ps1"
